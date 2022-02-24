@@ -7,3 +7,6 @@ echo "FunGuardian"
 ```
 > Pada saat anda jalankan, akan muncul echo 
 
+| Seski | Dedy | Adhar |
+| - | - | - |
+| xxx | xxx | xxx |
