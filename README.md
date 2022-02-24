@@ -1,4 +1,5 @@
 # **Cara Belajar Readme**
+![Apaan](pic/apaan.png)
 ### **How to**
 1. Copy code dibawah 
 ```
