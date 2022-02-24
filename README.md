@@ -1,8 +1,8 @@
-# **TITLE**
-### **Subtitle**
-1. Number One 
+# **Cara Belajar Readme**
+### **How to**
+1. Copy code dibawah 
 ```
-Code
+echo "FunGuardian"
 ```
-> Note
+> Pada saat anda jalankan, akan muncul echo 
 
